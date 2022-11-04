@@ -11,7 +11,7 @@ I'm Zé, Web Development Student.
 
 🌱 I am currently learning Backend Development
 
-💻 At the moment I'm preferring to develop on the front end stack
+💻 I've been practicing a lot of Node.js lately
 
 👾 Games are my favorite hobby
 
