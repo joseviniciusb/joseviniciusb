@@ -3,7 +3,7 @@
 I'm Zé, Web Development Student.
 :house_with_garden: I’m from Brazil. 
 
-📚 Currently a student at the Trybe programming school
+📚 I am currently working as a Software and Games Developer
 
 # About me
 
