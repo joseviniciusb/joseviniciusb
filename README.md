@@ -35,5 +35,5 @@ Hi, I'm **Zé**, a passionate **Web Developer** from Brazil. 🇧🇷
 
 ## 🎮 Let's Connect  
 
-- 💌 Feel free to reach out for collaborations or a quick chat about tech and gaming!  
-- 🔗 [Portfolio Website](#) | [LinkedIn](#) | [Twitter](#)  
+- 💌 Feel free to reach out for collaborations or a quick chat about tech!  
+
